@@ -31,4 +31,4 @@ npm run encore.prod
 npm run serve
 ```
 
-Now, your project is accessible at [http://127.0.0.1:8088] !
+Now, your project is accessible at http://127.0.0.1:8088 !
