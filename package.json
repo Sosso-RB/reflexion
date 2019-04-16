@@ -4,15 +4,15 @@
   "description": "A sample web project with webpack-encore and http-server",
   "scripts": {
     "serve": "http-server -p 8088",
-    "encore.dev": "encore dev",
-    "encore.dev-server": "encore dev-server --hot",
-    "encore.prod": "encore production",
-    "encore.watch": "encore dev --watch"
+    "dev": "encore dev",
+    "dev-server": "encore dev-server --hot",
+    "build": "encore production",
+    "watch": "encore dev --watch"
   },
   "author": "Hugo Duval",
   "devDependencies": {
-    "@symfony/webpack-encore": "^0.22.1",
-    "node-sass": "^4.9.3",
+    "@symfony/webpack-encore": "^0.27.0",
+    "node-sass": "^4.11.0",
     "sass-loader": "^7.1.0"
   },
   "dependencies": {
