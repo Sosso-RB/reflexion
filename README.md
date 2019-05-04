@@ -28,12 +28,12 @@ The **index.html** is in the **public** folder and that's the one you should mod
 ### Encore
 #### Watch (dev)
 ```
-npm run encore.watch
+npm run watch
 ```
 
 #### Build 
 ```
-npm run encore.prod
+npm run prod
 ```
 
 ### HTTP-Server
