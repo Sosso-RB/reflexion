@@ -1,4 +1,4 @@
-# sample-project
+# Reflexion
 
 A sample web project with webpack-encore and http-server
 
